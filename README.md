@@ -30,7 +30,7 @@ Building digital products, AI systems, and software that solve real problems.
 
 I'm **Emmanuel Oladebo**, a software engineer and product builder focused on building digital products from idea to production.
 
-My work spans software engineering, product development, AI, automation, SaaS, mobile applications, and modern web applications.
+My work spans software engineering, product development, AI, automation, SaaS, and modern web applications.
 
 I enjoy working across the entire product lifecycle:
 
@@ -60,47 +60,19 @@ I care about building software that is useful, maintainable, performant, and cap
 
 ## Engineering
 
-### Languages
+### Languages & Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,vite,nodejs,php,python" />
 </p>
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,vite" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Mobile & App Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=reactnative,flutter" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/FlutterFlow-0A0A0A?style=flat-square&logo=flutter&logoColor=white" />
-</p>
-
-### Database & Infrastructure
+### Backend & Infrastructure
 
 <p>
 <img src="https://skillicons.dev/icons?i=supabase,postgres,vercel,cloudflare" />
 </p>
 
-### CMS & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=wordpress" />
-</p>
-
-### Tools & Workflow
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
@@ -175,8 +147,6 @@ The system is designed around real-time transcription and transforming spoken co
 ```text
 AI Applications
 SaaS Products
-Web Applications
-Mobile Applications
 Developer Tools
 Automation Systems
 Digital Platforms
