@@ -58,54 +58,35 @@ I care about building software that is useful, maintainable, performant, and cap
 
 ---
 
-## Technology
+## Engineering
 
-### Frontend & Web
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,vite" />
-</p>
-
-* React
-* Next.js
-* Vue
-* TypeScript
-* JavaScript
-* Tailwind CSS
-* Vite
-* Responsive web development
-
----
-
-### Backend & APIs
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python" />
 </p>
 
-* Node.js
-* Express.js
-* PHP
-* REST APIs
-* API integrations
-* Backend services
-* Authentication systems
-
----
-
-### Mobile Development
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,flutter" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,vite" />
 </p>
 
-* React Native
-* FlutterFlow
-* Cross-platform application development
-* Mobile-first product development
-* API-driven mobile applications
+### Backend
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Mobile & App Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=reactnative,flutter" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/FlutterFlow-0A0A0A?style=flat-square&logo=flutter&logoColor=white" />
+</p>
 
 ### Database & Infrastructure
 
@@ -113,16 +94,17 @@ I care about building software that is useful, maintainable, performant, and cap
 <img src="https://skillicons.dev/icons?i=supabase,postgres,vercel,cloudflare" />
 </p>
 
-* Supabase
-* PostgreSQL
-* Vercel
-* Cloudflare
-* Database design
-* Authentication
-* Storage
-* Serverless infrastructure
+### CMS & Platforms
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=wordpress" />
+</p>
+
+### Tools & Workflow
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
 
 ### AI & Automation
 
@@ -138,42 +120,13 @@ I care about building software that is useful, maintainable, performant, and cap
 
 ---
 
-### CMS & No-Code
-
-<p>
-<img src="https://skillicons.dev/icons?i=wordpress" />
-</p>
-
-* WordPress
-* Elementor
-* FlutterFlow
-* Rapid product prototyping
-* CMS-based applications
-
----
-
-### Tools & Workflow
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
-
-* Git
-* GitHub
-* VS Code
-* Figma
-* AI-assisted development workflows
-* Product prototyping
-
----
-
 ## Selected Products
 
 ### Scenory AI
 
 AI-powered YouTube intelligence and automation platform.
 
-Built to help creators research, analyze, optimize, and automate parts of their content workflow.
+Built to help creators research channels, discover niches, analyze competitors, understand comments, improve titles and hooks, generate scripts, and streamline content workflows.
 
 **Focus:** AI · SaaS · Automation · Creator Technology
 
@@ -181,7 +134,9 @@ Built to help creators research, analyze, optimize, and automate parts of their 
 
 ### Startup Sim
 
-An interactive startup simulation platform exploring product decisions, business strategy, resources, growth, competition, and business outcomes.
+A startup simulation platform built around the experience of building and operating a startup.
+
+The product explores product decisions, business strategy, growth, resources, competition, and the consequences of decisions in a simulated startup environment.
 
 **Focus:** Simulation · Product Strategy · SaaS · Interactive Systems
 
@@ -191,7 +146,7 @@ An interactive startup simulation platform exploring product decisions, business
 
 A digital housing platform designed around the Nigerian rental and property discovery experience.
 
-The platform explores property discovery, booking workflows, payments, verification, and move-in workflows.
+The platform explores property discovery, booking workflows, payments, verification, and user management.
 
 **Focus:** PropTech · FinTech · PWA · Supabase · Payments
 
@@ -209,6 +164,8 @@ A digital career platform focused on connecting skills, opportunities, and profe
 
 A sermon intelligence and documentation platform combining live audio capture, speech-to-text, structured sermon notes, and searchable content.
 
+The system is designed around real-time transcription and transforming spoken content into structured, useful information.
+
 **Focus:** AI · Speech-to-Text · Real-Time Systems · Desktop Applications · PWA
 
 ---
@@ -218,6 +175,7 @@ A sermon intelligence and documentation platform combining live audio capture, s
 ```text
 AI Applications
 SaaS Products
+Web Applications
 Mobile Applications
 Developer Tools
 Automation Systems
@@ -260,7 +218,6 @@ LLM Applications
 AI Automation
 SaaS Architecture
 Product Engineering
-Mobile Applications
 Cloud Infrastructure
 Real-Time Systems
 Developer Tools
