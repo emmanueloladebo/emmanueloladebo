@@ -30,7 +30,7 @@ Building digital products, AI systems, and software that solve real problems.
 
 I'm **Emmanuel Oladebo**, a software engineer and product builder focused on building digital products from idea to production.
 
-My work spans software engineering, product development, AI, automation, SaaS, and modern web applications.
+My work spans software engineering, product development, AI, automation, SaaS, mobile applications, and modern web applications.
 
 I enjoy working across the entire product lifecycle:
 
@@ -58,25 +58,71 @@ I care about building software that is useful, maintainable, performant, and cap
 
 ---
 
-## Engineering
+## Technology
 
-### Languages & Frameworks
+### Frontend & Web
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,vite,nodejs,php,python" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,vite" />
 </p>
 
-### Backend & Infrastructure
+* React
+* Next.js
+* Vue
+* TypeScript
+* JavaScript
+* Tailwind CSS
+* Vite
+* Responsive web development
+
+---
+
+### Backend & APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+</p>
+
+* Node.js
+* Express.js
+* PHP
+* REST APIs
+* API integrations
+* Backend services
+* Authentication systems
+
+---
+
+### Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,flutter" />
+</p>
+
+* React Native
+* FlutterFlow
+* Cross-platform application development
+* Mobile-first product development
+* API-driven mobile applications
+
+---
+
+### Database & Infrastructure
 
 <p>
 <img src="https://skillicons.dev/icons?i=supabase,postgres,vercel,cloudflare" />
 </p>
 
-### Tools
+* Supabase
+* PostgreSQL
+* Vercel
+* Cloudflare
+* Database design
+* Authentication
+* Storage
+* Serverless infrastructure
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
+---
 
 ### AI & Automation
 
@@ -92,13 +138,42 @@ I care about building software that is useful, maintainable, performant, and cap
 
 ---
 
+### CMS & No-Code
+
+<p>
+<img src="https://skillicons.dev/icons?i=wordpress" />
+</p>
+
+* WordPress
+* Elementor
+* FlutterFlow
+* Rapid product prototyping
+* CMS-based applications
+
+---
+
+### Tools & Workflow
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+* Git
+* GitHub
+* VS Code
+* Figma
+* AI-assisted development workflows
+* Product prototyping
+
+---
+
 ## Selected Products
 
 ### Scenory AI
 
 AI-powered YouTube intelligence and automation platform.
 
-Built to help creators research channels, discover niches, analyze competitors, understand comments, improve titles and hooks, generate scripts, and streamline content workflows.
+Built to help creators research, analyze, optimize, and automate parts of their content workflow.
 
 **Focus:** AI · SaaS · Automation · Creator Technology
 
@@ -106,9 +181,7 @@ Built to help creators research channels, discover niches, analyze competitors, 
 
 ### Startup Sim
 
-A startup simulation platform built around the experience of building and operating a startup.
-
-The product explores product decisions, business strategy, growth, resources, competition, and the consequences of decisions in a simulated startup environment.
+An interactive startup simulation platform exploring product decisions, business strategy, resources, growth, competition, and business outcomes.
 
 **Focus:** Simulation · Product Strategy · SaaS · Interactive Systems
 
@@ -118,7 +191,7 @@ The product explores product decisions, business strategy, growth, resources, co
 
 A digital housing platform designed around the Nigerian rental and property discovery experience.
 
-The platform explores property discovery, booking workflows, payments, verification, and user management.
+The platform explores property discovery, booking workflows, payments, verification, and move-in workflows.
 
 **Focus:** PropTech · FinTech · PWA · Supabase · Payments
 
@@ -136,8 +209,6 @@ A digital career platform focused on connecting skills, opportunities, and profe
 
 A sermon intelligence and documentation platform combining live audio capture, speech-to-text, structured sermon notes, and searchable content.
 
-The system is designed around real-time transcription and transforming spoken content into structured, useful information.
-
 **Focus:** AI · Speech-to-Text · Real-Time Systems · Desktop Applications · PWA
 
 ---
@@ -147,6 +218,7 @@ The system is designed around real-time transcription and transforming spoken co
 ```text
 AI Applications
 SaaS Products
+Mobile Applications
 Developer Tools
 Automation Systems
 Digital Platforms
@@ -188,6 +260,7 @@ LLM Applications
 AI Automation
 SaaS Architecture
 Product Engineering
+Mobile Applications
 Cloud Infrastructure
 Real-Time Systems
 Developer Tools
